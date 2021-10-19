@@ -1,6 +1,3 @@
-# titaniumaplus
-
-## Scalable URL Shortner Project Requirement
 
 ## Phase I
 
